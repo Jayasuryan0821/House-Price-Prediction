@@ -1,8 +1,8 @@
-# House-Pricing-EDA
+# House-Pricing-Prediction
 
 ## Overview
 
-This repository contains the exploratory data analysis (EDA) for a house price prediction dataset. The goal of this EDA is to understand the dataset's structure, uncover patterns, and derive insights that can help in building predictive models for house prices.
+This repository contains the exploratory data analysis (EDA) and model training for a house price prediction dataset. The goal of this EDA is to understand the dataset's structure, uncover patterns, and derive insights that can help in building predictive models for house prices.
 
 ## Dataset
 
